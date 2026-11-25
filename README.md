@@ -23,9 +23,9 @@
 
 <hr>
 <ul>
-<li /><a href="/chapter1/ml4i_chapter1.ipynb">บทที่ 1 :</a> บทนำ 
+<li /><a href="/chapter1/ml4i_chapter1.ipynb">บทที่ 1</a>: บทนำ 
 <li />
-<li /><a href="/appendixA/ml4i_appendixA.ipynb">ภาคผนวก A :</a> ติดตั้งและใช้งานเครื่องมือซอฟต์แวร์
+<li /><a href="/appendixA/ml4i_appendixA.ipynb">ภาคผนวก A</a>: ติดตั้งและใช้งานเครื่องมือซอฟต์แวร์
 </ul>
 
 
